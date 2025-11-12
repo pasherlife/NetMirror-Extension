@@ -23,9 +23,10 @@ class DisneyPlusProvider : MainAPI() {
         TvType.Movie,
         TvType.TvSeries,
     )
-    override var lang = "ta"
+    override var lang = "hi"
 
     override var mainUrl = "https://net20.cc"
+    private var newUrl = "https://net51.cc"
     override var name = "Disney Plus"
 
     override val hasMainPage = true

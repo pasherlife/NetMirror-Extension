@@ -23,9 +23,10 @@ class HotStarMirrorProvider : MainAPI() {
         TvType.Movie,
         TvType.TvSeries,
     )
-    override var lang = "ta"
+    override var lang = "hi"
 
-    override var mainUrl = "https://net2025.cc"
+    override var mainUrl = "https://net20.cc"
+    private var newUrl = "https://net51.cc"
     override var name = "HotStar"
 
     override val hasMainPage = true
