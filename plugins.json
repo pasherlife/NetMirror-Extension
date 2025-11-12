@@ -1,22 +1,22 @@
 [
     {
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
+        "iconUrl": "https://github.com/Sushan64/NetMirror-Extension/raw/refs/heads/master/Netmirror/icon.jpeg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
-        "fileSize": 48023,
+        "fileSize": 48035,
         "status": 1,
         "language": "ta",
         "authors": [
-            "NetMirror"
+            "Sushan64"
         ],
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
         "version": 42,
-        "internalName": "CNC Verse",
+        "internalName": "Netmirror",
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/CNC Verse.cs3",
-        "name": "CNC Verse"
+        "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
+        "name": "Netmirror"
     }
 ]
