@@ -215,10 +215,10 @@ class DisneyPlusProvider : MainAPI() {
                     newExtractorLink(
                         name,
                         it.label,
-                        fixUrl(it.file),
+                        "$newUrl/${it.file}",
                         type = ExtractorLinkType.M3U8
                     ) {
-                        this.referer = "$mainUrl/tv/home"
+                        this.referer = "$newUrl/home"
                         this.quality = getQualityFromName(it.file.substringAfter("q=", ""))
                     }
                 )
