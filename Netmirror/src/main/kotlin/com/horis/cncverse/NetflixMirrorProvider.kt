@@ -23,11 +23,11 @@ class NetflixMirrorProvider : MainAPI() {
         TvType.Movie,
         TvType.TvSeries,
     )
-    override var lang = "ua"
+    override var lang = "uk"
 
     override var mainUrl = "https://net20.cc"
     private var newUrl = "https://net51.cc"
-    override var name = "Netflix"
+    override var name = "Netflix UA"
 
     override val hasMainPage = true
     private var cookie_value = ""
