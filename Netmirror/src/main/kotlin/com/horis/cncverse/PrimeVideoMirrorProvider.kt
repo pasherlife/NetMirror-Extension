@@ -25,7 +25,7 @@ class PrimeVideoMirrorProvider : MainAPI() {
         TvType.Movie,
         TvType.TvSeries,
     )
-    override var lang = "hi"
+    override var lang = "uk"
 
     override var mainUrl = "https://net20.cc"
     private var newUrl = "https://net51.cc"
