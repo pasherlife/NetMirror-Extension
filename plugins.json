@@ -14,9 +14,9 @@
             "TvSeries"
         ],
         "version": 42,
-        "internalName": "Netmirror",
+        "internalName": "Netflix UA",
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
         "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
-        "name": "Netmirror"
+        "name": "Natflix UA"
     }
 ]
