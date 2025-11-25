@@ -23,7 +23,7 @@ class NetflixMirrorProvider : MainAPI() {
         TvType.Movie,
         TvType.TvSeries,
     )
-    override var lang = "hi"
+    override var lang = "ua"
 
     override var mainUrl = "https://net20.cc"
     private var newUrl = "https://net51.cc"
@@ -33,7 +33,7 @@ class NetflixMirrorProvider : MainAPI() {
     private var cookie_value = ""
     private val headers = mapOf(
         "Accept" to "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "Accept-Language" to "en-IN,en-US;q=0.9,en;q=0.8",
+        "Accept-Language" to "uk-UA,en-US;q=0.9,ua;q=0.8",
         "Connection" to "keep-alive",
         "Host" to "net51.cc",
         "sec-ch-ua" to "\"Not;A=Brand\";v=\"99\", \"Android WebView\";v=\"139\", \"Chromium\";v=\"139\"",
