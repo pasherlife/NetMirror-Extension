@@ -1,5 +1,6 @@
 {
   "name": "Netflix UA",
+  "iconUrl":"https://i.ibb.co/Y7FXV3pq/icon.png",
   "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents",
   "manifestVersion": 1,
   "pluginLists": [
