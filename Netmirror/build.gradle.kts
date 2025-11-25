@@ -9,7 +9,7 @@ android {
 
 cloudstream {
     
-    language = "ua"
+    language = "uk"
     // All of these properties are optional, you can safely remove them
 
     description = "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages"
